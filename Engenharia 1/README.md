@@ -28,6 +28,18 @@ Quando um engenheiro projeta uma ferrovia, ele planeja como ela será feita, seu
 
 </div>
 
-3 exemplos de custo benefício:
-Além dos exemplos dados em sala, 
+Além dos exemplos dados em sala, 3 exemplos de custo benefício são as relações entre:
+ - Complexidade com flexibilidade
+   > Sistemas mais complexos muitas vezes apresentam resultados mais refinados e específicos, entretanto apresentam menos flexibilidade quando o assunto é adicionar novas funcionabilidades ou modificar alguma já existente. Uma mudança puxa muitas outras, aumentando exponencialmente a quantidade de trabalhao necessário.
+  - Prazos com custo
+    > Na maioria das vezes, o custo está ligada indiretamente com os prazos. Quanto mais apertado os prazos, maior vai ser a quantidade de trabalho feito pela equipe de uma só vez (necessitando horas exra, funcionaŕio novos, etc...), aumentando o custo do projeto.
+  - Organização com Velocidade
+      > Um projeto com uma boa estrutura organizacional, documentação, padrões de trabalho, etc facilita muito a manutenção de seus produtos, além de ajudar a diminuir o tempo de aprendizado quando novas pessoas começam a contribuir para ele, entretanto a construção e manutenção de todas essas base de informação rouba tempo de trabalho do desenvolvimento em sim, causando uma diminuição no quão rápido novas coisas podem ser aplicadas.
 
+<div align="center">
+
+## Atividade 4
+
+</div>
+
+Nesse primeiro projeto de API, eu atuei como Scrum Master e Scrum Developer, que apesar de serem papeis excludentes em ambientes empresariais, achei essencial participar como ambos para desenvolver aas soft skills de manejamento de equipes e as hard skills de
