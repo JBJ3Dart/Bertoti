@@ -42,4 +42,13 @@ Além dos exemplos dados em sala, 3 exemplos de custo benefício são as relaç�
 
 </div>
 
-Nesse primeiro projeto de API, eu atuei como Scrum Master e Scrum Developer, que apesar de serem papeis excludentes em ambientes empresariais, achei essencial participar como ambos para desenvolver aas soft skills de manejamento de equipes e as hard skills de
+Nesse primeiro projeto de API, eu atuei como Scrum Master e Scrum Developer, que apesar de serem papeis excludentes em ambientes empresariais, achei essencial participar como ambos para desenvolver as soft skills de manejamento de equipes e as hard skills de programação. No papel de Scrum Master, criei e mantive o Jira das sprint atualizado e organizado, estruturei o Github e, por fim, ajudei os outros integrantes a entenderem como a metdologia Scrum funciona, resolver conflitos de interesses entre eles e tirar dúvidas de forma geral. No papel de Scrum Developer, contribuí com a construção do código do bot, desde criação de funcionalidades, planejamento da arquitetura do bot, até refatoração, correção de bugs.
+
+<div align="center">
+
+## Atividade 5
+
+</div>
+
+Eu blblbalbla
+
