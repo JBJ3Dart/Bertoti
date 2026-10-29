@@ -50,5 +50,4 @@ Nesse primeiro projeto de API, eu atuei como Scrum Master e Scrum Developer, que
 
 </div>
 
-Eu blblbalbla
-
+Meu aprendizado nessa API tem sido maravilhoso. Começando com como rodar localmente LLM, algo que eu não fazia ideia que era tão simples, seguindo para como usar pacotes e bibliotecas para conectar com sites e softwares (ex. Telegram), como programar um modelo de linguagem usando o dspy, dando uma estrutura e guia para a LLM, como usar o formato de arquivo JSON com o python, como usar o git e github de uma forma mais aprofundada, entre outras muitas coias que envolvem vários desses temas e ferramentas.
